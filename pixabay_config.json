@@ -1,0 +1,7 @@
+{
+    "keywords_file": "./keywords.json",
+    "save_root": "../Pixabay",
+    "pixabay_api_key": "21636182-f2b08777caf5a786ad4c16078",
+    "url_keys": "largeImageURL",
+    "npage":1
+}
